@@ -20,7 +20,7 @@
 <br />
 <br />
 <!--
-**saifujasoor/saifujasoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**m-rakesh-kr/m-rakesh-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 ## Featured Repositories!!
 
 <br />
-
+<!--
 [![Age-Prediction-and-Gender-Detection-Web-App](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Age-Prediction-and-Gender-Detection-Web-App&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Age-Prediction-and-Gender-Detection-Web-App.git)
 
 [![Capture-Frames-from-realtime-webcam-record](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Capture-Frames-from-realtime-webcam-record&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Capture-Frames-from-realtime-webcam-record.git)
@@ -82,20 +82,22 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 
 [![Capture-image-from-webcam-and-display-in-localhost](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Capture-image-from-webcam-and-display-in-localhost&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Capture-image-from-webcam-and-display-in-localhost.git)
 </hr>
+-->
 <br>
 <hr><!--
 <h3 align="left">Connect with me:</h3>
 
-[![Replit](https://img.shields.io/badge/-Repl.it-212121?logo=replit&logoWidth=20&logoColor=f0f0f0&style=flat-square)](https://replit.com/@mr_saif)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoWidth=20&logoColor=white&style=flat-square)](https://twitter.com/jasoorkhan)
-[![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=flat-square)](https://medium.com/@mr_saif)
-[![Dev Community](https://img.shields.io/badge/-Dev.to-212121?logo=devdotto&logoWidth=20&logoColor=white&style=flat-square)](https://dev.to/mr_saif)
-[![Codepen](https://img.shields.io/badge/-Codepen-545454?logo=codepen&logoWidth=20&logoColor=white&style=flat-square)](https://codepen.io/mr_saif)
-[![You Tube](https://img.shields.io/badge/-You_Tube-ff0000?logo=youtube&logoWidth=20&logoColor=white&style=flat-square)](https://www.youtube.com/channel/UCs97JVJunBtc29yStIrk-3Q)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-e54786?logo=dribbble&logoWidth=20&logoColor=white&style=flat-square)](https://dribbble.com/mr_saif)
-[![Figma](https://img.shields.io/badge/-Figma-e54786?logo=figma&logoWidth=20&logoColor=white&style=flat-square)](https://figma.com/@mr_saif)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?logo=stackoverflow&logoWidth=20&logoColor=white&style=flat-square)](https://stackoverflow.com/users/16281949/mr_saif)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?logo=sololearn&logoWidth=20&logoColor=white&style=flat-square)](https://sololearn.page.link/mr_saif)&nbsp;
+[![Replit](https://img.shields.io/badge/-Repl.it-212121?logo=replit&logoWidth=20&logoColor=f0f0f0&style=flat-square)](#)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoWidth=20&logoColor=white&style=flat-square)](https://twitter.com/m_rakesh_kr)
+[![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=flat-square)](#)
+[![Dev Community](https://img.shields.io/badge/-Dev.to-212121?logo=devdotto&logoWidth=20&logoColor=white&style=flat-square)](#)
+[![Codepen](https://img.shields.io/badge/-Codepen-545454?logo=codepen&logoWidth=20&logoColor=white&style=flat-square)](#)
+[![You Tube](https://img.shields.io/badge/-You_Tube-ff0000?logo=youtube&logoWidth=20&logoColor=white&style=flat-square)](#)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-e54786?logo=dribbble&logoWidth=20&logoColor=white&style=flat-square)](#)
+[![Figma](https://img.shields.io/badge/-Figma-e54786?logo=figma&logoWidth=20&logoColor=white&style=flat-square)](#)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?logo=stackoverflow&logoWidth=20&logoColor=white&style=flat-square)](https://stackoverflow.com/users/18749995/rakesh-kumar)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?logo=sololearn&logoWidth=20&logoColor=white&style=flat-square)](#)
+&nbsp;
  
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin] [![Mail Badge](https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge)][instagram]
 <br />
@@ -111,10 +113,10 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 <br>
 <hr>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/saifullahrahimi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saifullahrahimi" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/m-rakesh-kr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="m-rakesh-kr" /></a></p><br><br>
 <br>
 
 <!--Links -->
-[instagram]: https://www.instagram.com/mr_saifu01/
-[linkedin]: https://www.linkedin.com/in/saifullahrahimi/
-[github]: https://github.com/saifujasoor
+[instagram]: https://www.instagram.com/m_rakesh_kr/
+[linkedin]: https://www.linkedin.com/in/rakesh-kumar-949396199/
+[github]: https://github.com/m-rakesh-kr
