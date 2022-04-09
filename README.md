@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
 https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-94bc-198c78128453.mp4
 
 <hr>
@@ -118,5 +116,5 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 
 <!--Links -->
 [instagram]: https://www.instagram.com/m_rakesh_kr/
-[linkedin]: https://www.linkedin.com/in/rakesh-kumar-949396199/
+[linkedin]: https://www.linkedin.com/in/m-rakesh-kr/
 [github]: https://github.com/m-rakesh-kr
