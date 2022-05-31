@@ -41,9 +41,9 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 
 <hr>
 <p>
-<p align="center"> <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-rakesh-kr&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
+<p align="left"> <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-rakesh-kr&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
 
-<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m-rakesh-kr&show_icons=true&locale=en&theme=github_dark" /> </p>
+<p align="right"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m-rakesh-kr&show_icons=true&locale=en&theme=github_dark" /> </p>
 </p>
 <!--
 <p align="center">
@@ -61,20 +61,16 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 <hr>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-rakesh-kr&label=Profile%20views&color=0e75b6&style=flat" alt="m-rakesh-kr" /> </p>
-
 <p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=m-rakesh-kr&column=3&theme=nord&margin-w=6&margin-h=5&no-frame=true" /> </p>
 -->
 
-<!--<palign="center"> <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mr_saif&theme=github_dark&layout=compact" /> </p> 
--->
+<!--<palign="center"> <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mr_saif&theme=github_dark&layout=compact" /> </p> -->
 
-<!-- 2<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m-rakesh-kr&show_icons=true&locale=en&theme=github_dark" /> </p> 
--->
-<!--
+<!-- 2<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m-rakesh-kr&show_icons=true&locale=en&theme=github_dark" /> </p> -->
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=m-rakesh-kr&theme=dark" /> </p>
 
 <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=m-rakesh-kr&theme=github" /> </p>
--->
+
 </hr>
 
 <hr>
