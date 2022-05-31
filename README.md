@@ -40,11 +40,16 @@ Here are some ideas to get you started:
 https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-94bc-198c78128453.mp4
 
 <hr>
-<p>
+<div class="row">
+<div class="md-4">
 <p align="left"> <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-rakesh-kr&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
-
+</div>
+<div class="md-4">
 <p align="right"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m-rakesh-kr&show_icons=true&locale=en&theme=github_dark" /> </p>
-</p>
+</div>
+</div>
+
+
 <!--
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>My GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
