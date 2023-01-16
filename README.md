@@ -8,13 +8,13 @@
 
 <br />
 
-## I'm a Python Developer Intern and a Web Scraping and ML Enthusiast!!
+## I'm a Associative Python Developer and a Neophile of Web3.0  and Blockchain Enthusiast!!
 
 <br/>
 
 - 🔭 I'm currently invested in learning about Python Development and its framework. ⛓️
 - 👯 I’m looking to collaborate with other coders
-- 🥅 2022 Goals: Learning Data Visualization and Data Analysis.
+- 🥅 2022-2023 Goals: Learning Web3.0 and Blockchain.
 - ⚡ Fun fact: I love listing music and travelling at Historical Monuments.
 
 <br />
