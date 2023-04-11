@@ -8,7 +8,10 @@
 
 <br />
 
-## I'm a Associative Python Developer and a Neophile of Web3.0  and Blockchain Enthusiast!!
+#### I am a highly motivated and enthusiastic associate software engineer with strong training skills. 
+#### My technical expertise includes Python programming and various frameworks such as Django, FastAPI, as well as database management using MySQL and PostgreSQL. 
+#### Currently, I am working on Web 3.0, Blockchain, and Smart Contracts with a particular focus on Solidity. 
+#### I excel at implementing each phase of a project and am always eager to learn new technologies.
 
 <br/>
 
