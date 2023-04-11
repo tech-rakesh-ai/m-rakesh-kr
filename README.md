@@ -15,7 +15,7 @@
 
 <br/>
 
-- 🔭 I'm currently invested in learning about Python Development and its framework. ⛓️
+- 🔭 I'm currently invested in learning about Blockchain development using Python frameworks. ⛓️
 - 👯 I’m looking to collaborate with other coders
 - 🥅 2022-2023 Goals: Learning Web3.0 and Blockchain.
 - ⚡ Fun fact: I love listing music and travelling at Historical Monuments.
