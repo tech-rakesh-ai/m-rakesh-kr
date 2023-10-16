@@ -2,8 +2,11 @@
 
 <hr>
 
-![welcome](https://user-images.githubusercontent.com/76810003/160365873-cf0811c3-93e2-486d-8d61-e1f47d379280.gif)
-![welcome](https://user-images.githubusercontent.com/76810003/160365873-cf0811c3-93e2-486d-8d61-e1f47d379280.gif)
+<div style="display: flex;">
+    <img src="https://user-images.githubusercontent.com/76810003/160365873-cf0811c3-93e2-486d-8d61-e1f47d379280.gif" width="50%">
+    <img src="https://user-images.githubusercontent.com/76810003/160365873-cf0811c3-93e2-486d-8d61-e1f47d379280.gif" width="50%">
+</div>
+
 
 <hr>
 
