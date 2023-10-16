@@ -9,17 +9,16 @@
 
 <br />
 
-#### I am a highly motivated and enthusiastic associate software engineer with strong training skills. 
-#### My technical expertise includes Python programming and various frameworks such as Django, FastAPI, as well as database management using MySQL and PostgreSQL. 
-#### Currently, I am working on Web 3.0, Blockchain, and Smart Contracts with a particular focus on Solidity. 
-#### I excel at implementing each phase of a project and am always eager to learn new technologies.
+## About Me
+I'm a passionate Software Engineer with a focus on Python and leading web frameworks like Django, DRF, Flask, and FastAPI. My expertise extends to database management using MySQL and PostgreSQL. I've previously delved into the world of Web 3 and Blockchain, with a particular emphasis on Solidity for creating smart contracts.
 
-<br/>
+I'm currently working as a Python Developer, where I actively engage with various Python frameworks such as Django, DRF, Flask, and FastAPI. My work involves developing web applications and APIs. I continue to thrive in every project phase and have a constant appetite for exploring emerging technologies.
 
-- 🔭 I'm currently invested in learning about Blockchain development using Python frameworks. ⛓️
-- 👯 I’m looking to collaborate with other coders
-- 🥅 2022-2023 Goals: Learning Web3.0 and Blockchain.
-- ⚡ Fun fact: I love listening to music and traveling to historical monuments.
+- 🔭 I have experience in blockchain development using Python frameworks. ⛓️
+- 👯 I’m open to collaborating with fellow developers.
+- 🥅 2022-2023 Goals: Learning Web3.0 and Blockchain etc.
+- ⚡ Fun fact: I love listening to music and traveling to Historical Monuments.
+
 
 <br />
 
