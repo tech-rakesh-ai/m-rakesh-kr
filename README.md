@@ -1,7 +1,8 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Rakesh Kumar <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Rakesh Kumar <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6m2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
 
 <hr>
 
+![welcome](https://user-images.githubusercontent.com/76810003/160365873-cf0811c3-93e2-486d-8d61-e1f47d379280.gif)
 ![welcome](https://user-images.githubusercontent.com/76810003/160365873-cf0811c3-93e2-486d-8d61-e1f47d379280.gif)
 
 <hr>
@@ -18,7 +19,7 @@
 - 🔭 I'm currently invested in learning about Blockchain development using Python frameworks. ⛓️
 - 👯 I’m looking to collaborate with other coders
 - 🥅 2022-2023 Goals: Learning Web3.0 and Blockchain.
-- ⚡ Fun fact: I love listing music and travelling at Historical Monuments.
+- ⚡ Fun fact: I love listening to music and traveling to historical monuments.
 
 <br />
 
@@ -51,11 +52,17 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 
 <hr>
 
-<p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=m-rakesh-kr&theme=github" /> </p>
+## GitHub Activity
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=m-rakesh-kr&theme=github)
 
+## Featured Repositories
+Here are some of my featured repositories that you might find interesting:
 
-## Featured Repositories!!
-<hr>
+- [ATM System](https://github.com/m-rakesh-kr/ATM_System)
+- [Banking System](https://github.com/m-rakesh-kr/banking_system)
+- [Share Spark Dapps](https://github.com/m-rakesh-kr/ShareSparks_Dapps)
+- [FastApi Google Tasks](https://github.com/m-rakesh-kr/fastapi_google_tasks)
+- [Flask Microblog](https://github.com/m-rakesh-kr/flask_microblog)
 
 <!--Links -->
 [PyPI]: https://pypi.org/user/m-rakesh-kr/
