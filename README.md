@@ -25,7 +25,6 @@
 ### Connect with me:
 [![PyPI Badge](https://img.shields.io/pypi/v/package-name.svg?style=for-the-badge)](https://pypi.org/project/package-name/)
 [![LinkedIn Badge](https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin]
-[![Github Badge](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)][github]
 
 <br />
 <br />
@@ -61,4 +60,3 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 <!--Links -->
 [PyPI]: https://pypi.org/user/m-rakesh-kr/
 [Linkedin]: https://www.linkedin.com/in/m-rakesh-kr/
-[Github]: https://github.com/m-rakesh-kr
