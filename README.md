@@ -23,7 +23,10 @@
 <br />
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin] [![Mail Badge](https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge)][instagram]
+[![PyPI Badge](https://img.shields.io/pypi/v/package-name.svg?style=for-the-badge)](https://pypi.org/project/package-name/)
+[![LinkedIn Badge](https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin]
+[![Github Badge](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)][github]
+
 <br />
 <br />
 
