@@ -23,8 +23,7 @@
 
 <br />
 
-### Connect with me:
-[![PyPI Badge](https://img.shields.io/pypi/v/package-name.svg?style=for-the-badge)](https://pypi.org/project/package-name/)
+[![PyPI Profile](https://img.shields.io/badge/PyPI-Profile-blue?style=for-the-badge)](https://pypi.org/user/m-rakesh-kr/)
 [![LinkedIn Badge](https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin]
 
 <br />
