@@ -59,6 +59,6 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 <hr>
 
 <!--Links -->
-[instagram]: https://www.instagram.com/m_rakesh_kr/
-[linkedin]: https://www.linkedin.com/in/m-rakesh-kr/
-[github]: https://github.com/m-rakesh-kr
+[PyPI]: https://pypi.org/user/m-rakesh-kr/
+[Linkedin]: https://www.linkedin.com/in/m-rakesh-kr/
+[Github]: https://github.com/m-rakesh-kr
