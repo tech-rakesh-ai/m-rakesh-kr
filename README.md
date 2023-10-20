@@ -10,7 +10,7 @@
 <br />
 
 ## About Me
-I'm a passionate Software Engineer with a focus on Python and leading web frameworks like Django, DRF, Flask, and FastAPI. My expertise extends to database management using MySQL and PostgreSQL. I've previously delved into the world of Web 3 and Blockchain, with a particular emphasis on Solidity for creating smart contracts.
+I'm a passionate developer with a focus on Python and leading web frameworks like Django, DRF, Flask, and FastAPI. My expertise extends to database management using MySQL and PostgreSQL. I've previously delved into the world of Web 3 and Blockchain, with a particular emphasis on Solidity for creating smart contracts.
 
 I'm currently working as a Python Developer, where I actively engage with various Python frameworks such as Django, DRF, Flask, and FastAPI. My work involves developing web applications and APIs. I continue to thrive in every project phase and have a constant appetite for exploring emerging technologies.
 
