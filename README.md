@@ -10,9 +10,9 @@
 <br />
 
 ## About Me
-I'm a passionate developer with a focus on Python and leading web frameworks like Django, DRF, Flask, and FastAPI. My expertise extends to database management using MySQL and PostgreSQL. I've previously delved into the world of Web 3 and Blockchain, with a particular emphasis on Solidity for creating smart contracts.
+I am a passionate developer with expertise in Python and leading web frameworks like Django, DRF, Flask, FastAPI, and Scrapy. My proficiency extends to database management using MySQL, PostgreSQL, and MongoDB. I have delved into Web 3 and Blockchain, emphasizing Solidity for smart contract creation. Currently, I am focusing on Generative AI, exploring different types of LLMs, and leveraging frameworks like Dify and Langchain.
 
-I'm currently working as a Python Developer, where I actively engage with various Python frameworks such as Django, DRF, Flask, and FastAPI. My work involves developing web applications and APIs. I continue to thrive in every project phase and have a constant appetite for exploring emerging technologies.
+I am currently working as a Python Developer, actively engaging with various Python frameworks and AI & ML frameworks such as Dify and Langchain. My work involves developing web applications and APIs. I thrive in every project phase and have a constant appetite for exploring emerging technologies.
 
 - 🔭 I have experience in blockchain development using Python frameworks. ⛓️
 - 👯 I’m open to collaborating with fellow developers.
